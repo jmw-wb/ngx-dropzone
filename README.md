@@ -18,6 +18,14 @@ For a demo see [DEMO](https://ngx-dropzone.stackblitz.io). And the [CODE for the
 $ npm install --save @wastebits/ngx-dropzone
 ```
 
+## Versions
+
+| Angular Version | Library Version |
+| --------------- | --------------- |
+| 17 | 17 |
+| 18 | 18 |
+
+
 ## Usage
 
 ```js
