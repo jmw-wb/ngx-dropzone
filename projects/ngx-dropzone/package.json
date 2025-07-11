@@ -1,7 +1,7 @@
 {
   "name": "@wastebits/ngx-dropzone",
   "description": "A highly configurable dropzone component for Angular.",
-  "version": "19.0.0",
+  "version": "20.0.0",
   "author": "wastebits",
   "keywords": [
     "angular",
@@ -25,9 +25,9 @@
     "url": "git+https://github.com/jmw-wb/ngx-dropzone.git"
   },
   "peerDependencies": {
-    "@angular/common": "^19.2.14",
-    "@angular/core": "^19.2.14",
-    "@angular/forms": "^19.2.14",
+    "@angular/common": "^20.1.0",
+    "@angular/core": "^20.1.0",
+    "@angular/forms": "^20.1.0",
     "tslib": "^2.6.2"
   },
   "bugs": {
