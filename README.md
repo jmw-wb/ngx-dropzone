@@ -26,6 +26,7 @@ $ npm install --save @wastebits/ngx-dropzone
 | 18 | 18 |
 | 19 | 19 |
 | 20 | 20 |
+| 21 | 21 |
 
 ## Usage
 
